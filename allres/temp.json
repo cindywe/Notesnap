@@ -1,0 +1,32 @@
+{"labelAnnotations":[
+    {
+       "description":"Text",
+       "mid":"/m/07s6nbt",
+       "score":0.9307223,
+       "topicality":0.9307223
+    },
+    {
+       "description":"Font",
+       "mid":"/m/03gq5hm",
+       "score":0.9218415,
+       "topicality":0.9218415
+    },
+    {
+       "description":"Line art",
+       "mid":"/m/0919rx",
+       "score":0.9093158,
+       "topicality":0.9093158
+    },
+    {
+       "description":"Line",
+       "mid":"/m/03scnj",
+       "score":0.85374606,
+       "topicality":0.85374606
+    },
+    {
+       "description":"Coloring book",
+       "mid":"/m/05h7rm",
+       "score":0.515401,
+       "topicality":0.515401
+    }
+ ]}
